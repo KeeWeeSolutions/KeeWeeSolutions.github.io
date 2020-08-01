@@ -11,23 +11,23 @@ excerpt: >
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png
-    alt: "Machine Learning"
-    title: "Machine Learning"
-    excerpt: "Apply machine learning to environmental monitoring"
+    alt: "Data Science"
+    title: "Data Science"
+    excerpt: "Data visualization, data mining, machine learning, predictive modeling"
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Regulatory Reporting"
     title: "Regulatory Reporting"
-    excerpt: "GHG, NPRI, EPEA approval "
+    excerpt: "Greenhouse Gas,National Pollutant Release Inventory, EPEA approval "
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "Data Science"
-    title: "Data Analytics"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    alt: "Sustainability Reporting"
+    title: "Sustainability"
+    excerpt: "Environmental, social and corporate governance(ESG), CDP (carbon disclosure project)"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

@@ -266,6 +266,17 @@ compress_html:
   ignore:
     envs: development
 
+# Collections
+collections:
+  data-science:
+    output: true
+    permalink: /:collection/:path/
+  book:
+    output: true
+    permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:

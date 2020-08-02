@@ -7,7 +7,7 @@ header:
   actions:
     - label: "<i class='fas fa-download'></i> Install"
 excerpt: >
-  Sustainability Services by Artificial Intelligenc and Data Science <br />
+  Sustainability Services via Artificial Intelligenc and Data Science <br />
 # <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small>
 feature_row:
   - image_path: /assets/images/mm-customizable-feature.png

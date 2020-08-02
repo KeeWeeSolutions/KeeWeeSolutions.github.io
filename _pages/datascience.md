@@ -1,8 +1,9 @@
 ---
 title: Data Science
 layout: collection
-permalink: /datascience/
+permalink: /data-science/
 collection: datascience
 classes: wide
 ---
 data science
+1

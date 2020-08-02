@@ -2,9 +2,9 @@
 main:
   - title: "Data Science"
     url: /datascience/
-  - title: "Regulatory Reporting"
+  - title: "Regulatory"
     url: /regulatory/
-  - title: "Sustainability Reporting"
+  - title: "Sustainability"
     url: /sustainability/    
   - title: "Posts"
     url: /year-archive/

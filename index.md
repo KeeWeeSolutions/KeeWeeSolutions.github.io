@@ -19,13 +19,13 @@ feature_row:
     btn_label: "Learn more"
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Regulatory Reporting"
-    title: "Regulatory Reporting"
+    title: "Regulatory"
     excerpt: "Greenhouse Gas,National Pollutant Release Inventory, EPEA approval "
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
   - image_path: /assets/images/mm-free-feature.png
-    alt: "Sustainability Reporting"
+    alt: "Sustainability"
     title: "Sustainability"
     excerpt: "Environmental, social and corporate governance(ESG), Climate Lens"
     url: "/docs/license/"

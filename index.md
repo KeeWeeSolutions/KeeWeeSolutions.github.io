@@ -27,7 +27,7 @@ feature_row:
   - image_path: /assets/images/mm-free-feature.png
     alt: "Sustainability Reporting"
     title: "Sustainability"
-    excerpt: "Environmental, social and corporate governance(ESG), CDP (carbon disclosure project)"
+    excerpt: "Environmental, social and corporate governance(ESG), Climate Lens"
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn more"      

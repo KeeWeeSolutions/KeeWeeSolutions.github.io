@@ -1,8 +1,8 @@
 ---
-title: Book
+title: Data Science
 layout: collection
-permalink: /book/
-collection: book
+permalink: /data-science/
+collection: datascience
 classes: wide
 ---
 Checked out these books

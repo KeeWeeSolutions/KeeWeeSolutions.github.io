@@ -5,4 +5,4 @@ permalink: /data-science/
 collection: dscience
 classes: wide
 ---
-data science 12
+data science 13

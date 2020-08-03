@@ -268,7 +268,7 @@ compress_html:
 
 # Collections
 collections:
-  data-science:
+  dscience:
     output: true
     permalink: /:collection/:path/
   book:

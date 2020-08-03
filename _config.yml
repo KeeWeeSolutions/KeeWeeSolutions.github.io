@@ -271,7 +271,7 @@ collections:
   datascience:
     output: true
     permalink: /:collection/:path/
-  book:
+  regulatory:
     output: true
     permalink: /:collection/:path/
   portfolio:

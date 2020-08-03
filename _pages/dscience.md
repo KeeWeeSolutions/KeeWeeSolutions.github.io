@@ -2,8 +2,7 @@
 title: Data Science
 layout: collection
 permalink: /data-science/
-collection: datascience
+collection: dscience
 classes: wide
 ---
-data science
-1
+data science 12

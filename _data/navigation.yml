@@ -6,8 +6,8 @@ main:
     url: /regulatory/
   - title: "Sustainability"
     url: /sustainability/
-  - title: "Book"
-    url: /book/
+  #- title: "Book"
+  #  url: /book/
   #- title: "Posts"
   #  url: /year-archive/
   # - title: "Sample Collections"

@@ -274,7 +274,7 @@ collections:
   regulatory:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  sustainability:
     output: true
     permalink: /:collection/:path/
 

@@ -3,7 +3,7 @@ title: "Sustainability"
 layout: collection
 permalink: /sustainability/
 collection: sustainability
-
+classes: wide
 ---
 
 

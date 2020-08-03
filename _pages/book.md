@@ -7,4 +7,4 @@ classes: wide
 ---
 Checked out these books
 
-Data science
+Data science 2

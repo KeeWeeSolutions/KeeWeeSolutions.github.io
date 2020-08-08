@@ -15,14 +15,14 @@ feature_row:
     url: "/data-science/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-responsive-feature.png
+  - image_path: /assets/images/regulatory.jpg #mm-responsive-feature.png
     alt: "Regulatory Reporting"
     title: "Regulatory"
     excerpt: "Greenhouse Gas, National Pollutant Release Inventory, EPEA approval "
     url: "/regulatory/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/sustainability.jpg #mm-free-feature.png
     alt: "Sustainability"
     title: "Sustainability"
     excerpt: "Environmental, social and corporate governance(ESG), Climate Lens"

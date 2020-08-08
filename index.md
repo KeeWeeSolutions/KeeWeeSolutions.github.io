@@ -8,7 +8,7 @@ excerpt: >
   Sustainability powered by Artificial Intelligence and Data Science <br />
 # <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.17.2">Latest release v4.17.2</a></small>
 feature_row:
-  - image_path: /assets/images/mm-customizable-feature.png
+  - image_path: /assets/images/datascience.jpg #mm-customizable-feature.png
     alt: "Data Science"
     title: "Data Science"
     excerpt: "Data visualization, data mining, machine learning, predictive modeling"
@@ -18,7 +18,7 @@ feature_row:
   - image_path: /assets/images/mm-responsive-feature.png
     alt: "Regulatory Reporting"
     title: "Regulatory"
-    excerpt: "Greenhouse Gas,National Pollutant Release Inventory, EPEA approval "
+    excerpt: "Greenhouse Gas, National Pollutant Release Inventory, EPEA approval "
     url: "/regulatory/"
     btn_class: "btn--primary"
     btn_label: "Learn more"

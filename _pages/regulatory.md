@@ -8,25 +8,17 @@ classes: wide
 ---
 We are providing reporting services for the following programs: 
 
-- Alberta Technology Innovation and Emissions Reduction Regulation (TIER)
+- Alberta Technology Innovation and Emissions Reduction Regulation (TIER), due June 30
 
-- British Columbia (BC) Greenhouse Gas Emission Reporting Regulation
+- British Columbia (BC) Greenhouse Gas Emission Reporting Regulation, due May 31
 
-- Saskatchewan (SK) The Management and Reduction of Greenhouse Gases (Standards and Compliance) Regulations
+- Saskatchewan (SK) The Management and Reduction of Greenhouse Gases (Standards and Compliance) Regulations, due June 1
 
-- Environment and Climate Change Canada (ECCC) Greenhouse Gas Reporting Program (GHGRP)
+- Environment and Climate Change Canada (ECCC) Greenhouse Gas Reporting Program (GHGRP), due June 1
 
-- ECCC National Pollutant Release Inventory (NPRI)reporting
+- ECCC National Pollutant Release Inventory (NPRI)reporting, due June 1
 
 
-| Program | Deadline | 
-|:--------|:-------:|
-| Alberta GHG   | June 30   | 
-| BC GHG   | May 31   | 
-| SK GHG   | June 1   | 
-|----
-| ECCC GHG   | June 1   | 
-| ECCC NPRI   | June 1   | 
 
 
 

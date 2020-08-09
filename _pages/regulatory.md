@@ -4,10 +4,16 @@ layout: collection
 permalink: /regulatory/
 collection: regulatory
 classes: wide
-toc: true
-toc_sticky: true
----
 
+---
+<style>
+table th:first-of-type {
+    width: 60%;
+}
+table th:nth-of-type(2) {
+    width: 40%;
+}
+</style>
 
 
 | Program | Deadline | 

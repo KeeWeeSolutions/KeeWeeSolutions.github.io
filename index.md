@@ -22,7 +22,7 @@ feature_row:
     url: "/regulatory/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
-  - image_path: /assets/images/sustainability.jpg #mm-free-feature.png
+  - image_path: /assets/images/sustainability.png #mm-free-feature.png
     alt: "Sustainability"
     title: "Sustainability"
     excerpt: "Environmental, social and corporate governance(ESG), Climate Lens"

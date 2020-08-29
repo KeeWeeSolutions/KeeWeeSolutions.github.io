@@ -6,10 +6,24 @@ collection: sustainability
 classes: wide
 ---
 
+## Environmental, social and corporate governance (ESG)
+
+Chartered Professional Accountants (CPA) Canada provides a starter's guide to sustainability reporting [Download print](./assets/files/CPA_sustainability_starter_guide.pdf)
+
+Two disclosure standards are widely used by industry:
+
+- TCFD (Climate-related Financial Disclosures) and 
+- SASB (Sustainability Accounting Standards Board)
 
 
-# Environmental, social and corporate governance (ESG)
+
+### Climate-related Financial Disclosures (TCFB)
 
 
 
-# Climate Lens
+
+### Sustainability Accounting Standards Board (SASB)
+
+
+
+## Climate Lens

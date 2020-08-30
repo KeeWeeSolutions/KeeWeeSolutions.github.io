@@ -8,7 +8,7 @@ classes: wide
 
 ## Environmental, social and corporate governance (ESG)
 
-Chartered Professional Accountants (CPA) Canada provides a starter's guide to sustainability reporting [Download print](./assets/files/CPA_sustainability_starter_guide.pdf)
+Chartered Professional Accountants (CPA) Canada provides a starter's guide to sustainability reporting [Download](./assets/files/CPA_sustainability_starter_guide.pdf)
 
 Two disclosure standards are widely used by industry:
 
@@ -17,12 +17,12 @@ Two disclosure standards are widely used by industry:
 
 
 
-### Climate-related Financial Disclosures (TCFB)
+Climate-related Financial Disclosures (TCFB)
 
 
 
 
-### Sustainability Accounting Standards Board (SASB)
+Sustainability Accounting Standards Board (SASB)
 
 
 

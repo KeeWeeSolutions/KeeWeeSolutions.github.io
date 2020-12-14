@@ -16,11 +16,7 @@ We are providing reporting services for the following programs:
 
 - Environment and Climate Change Canada (ECCC) Greenhouse Gas Reporting Program (GHGRP), due June 1
 
-- ECCC National Pollutant Release Inventory (NPRI)reporting, due June 1
-
-
-
-
+- ECCC National Pollutant Release Inventory (NPRI) reporting, due June 1
 
 
 ## Greenhouse Gas Programs

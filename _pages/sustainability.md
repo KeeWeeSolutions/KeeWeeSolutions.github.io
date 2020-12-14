@@ -17,13 +17,15 @@ Two disclosure standards are widely used by industry:
 
 
 
-Climate-related Financial Disclosures (TCFB)
+### Climate-related Financial Disclosures (TCFB)
 
+Recommendations of the Task Force on Climate-Related Financial Disclosures, June 2017  
+[Download](./assets/files/FINAL-2017-TCFD-Report-11052018.pdf)
 
-
-
-Sustainability Accounting Standards Board (SASB)
-
+### Sustainability Accounting Standards Board (SASB)
+  
+Oil and Gas - Exploration & Production  Sustainability Accounting Standard  
+Sustainable Industry  Classification System (SICS) EM-EP Prepared by the Sustainability Accounting Standards Board (October 2018) [Download](./assets/files/SASB_Oil_Gas_Exploration_Production_Standard_2018.pdf)
 
 
 ## Climate Lens
